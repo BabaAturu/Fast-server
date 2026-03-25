@@ -1,0 +1,8 @@
+{
+  "v2ray_servers": [
+    {"name": "Ethiopia High Speed", "link": "vmess://eyJhZGQiOiI..."}
+  ],
+  "ssh_servers": [
+    {"host": "1.2.3.4", "port": 22, "user": "fastvpn", "pass": "1234"}
+  ]
+}
