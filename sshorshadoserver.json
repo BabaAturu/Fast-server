@@ -16,5 +16,18 @@
     "user": "admin",
     "pass": "pass123",
     "country_code": "fr"
+  },
+  
+  {
+    "name": "US Premium - Shadowsocks",
+    "type": "SS",
+    "host": "us1.ssobfs.site",
+    "port": "8388",
+    "pass": "ZGMwY",
+    "method": "chacha20-ietf-poly1305",
+    "obfs": "http",
+    "obfs_port": "8139",
+    "country_code": "us"
   }
+
 ]
