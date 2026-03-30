@@ -1,0 +1,12 @@
+[
+  {
+    "name": "France Premium - TG Package",
+    "type": "SSH_WS",
+    "host": "fr1.comnpmjs.com",
+    "port": "80",
+    "user": "sshmax-mama",
+    "pass": "mama1234",
+    "payload": "GET / HTTP/1.1[crlf]Host: t.me[crlf]Upgrade: websocket[crlf][crlf]",
+    "country_code": "fr"
+  }
+]
