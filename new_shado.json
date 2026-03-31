@@ -1,0 +1,11 @@
+{
+  "name": "Singapore Free - Zero Data",
+  "type": "SS",
+  "host": "sg1.ssobfs.site",
+  "port": "80", 
+  "pass": "NDUxN",
+  "method": "chacha20-ietf-poly1305",
+  "plugin": "obfs-local",
+  "plugin_opts": "obfs=http;obfs-host=www.ethiotelecom.et",
+  "country_code": "sg"
+}
