@@ -1,0 +1,13 @@
+[
+  {
+    "name": "BR Brazil - Telegram Pack Only",
+    "type": "SSH_TLS",
+    "host": "bra3.hackkcah.xyz",
+    "port": "443",
+    "user": "bum12",
+    "pass": "123455",
+    "sni": "t.me",
+    "payload": "GET / HTTP/1.1[crlf]Host: t.me[crlf]Upgrade: websocket[crlf][crlf]",
+    "country_code": "br"
+  }
+]
